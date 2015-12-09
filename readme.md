@@ -1,3 +1,5 @@
+#XML-RPC example for Jython2.7
+
 This is an example on a XML-RPC Python library compatible with the latest Jython version (2.7). The library in Python < 3.0 is called __xmlrpclib__ but it has been updated and refactored in two libraries for earlier versions of Python: __xmlrpc.client__ and __xmlrpc.server__. 
 
 Creates a server at localhost with one service called "is_even" that receives a number and prints out if it's even or not.
